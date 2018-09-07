@@ -5,7 +5,7 @@
 │       └── download.py
 │
 │
-├── experiments           # table for recording experiemnt data           
+├── experiments           # table for recording experiment data           
 │   └── experiments.xlsx
 │
 │
